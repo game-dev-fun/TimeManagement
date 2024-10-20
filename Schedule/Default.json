@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "Activity": "French-ANKI",
+      "Hours": "1:30"
+    },
+    {
+      "Activity": "French-Pimsleur",
+      "Hours": "1:30"
+    },
+    {
+      "Activity": "French-Youtube",
+      "Hours": "1:30"
+    },
+    {
+      "Activity": "French-Lingodeer",
+      "Hours": "1:30"
+    },
+    {
+      "Activity": "C++ - Mike Shah",
+      "Hours": "5"
+    },
+    {
+      "Activity": "UE: Complete BP",
+      "Hours": "2"
+    },
+    {
+      "Activity": "PS-TimeManagement",
+      "Hours": "1"
+    },
+    {
+      "Activity": "Workout",
+      "Hours": "3"
+    },
+    {
+      "Activity": "Essential",
+      "Hours": 0
+    },
+    {
+      "Activity": "Time Waste",
+      "Hours": 0
+    }
+  ]
+}
